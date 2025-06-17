@@ -2,7 +2,7 @@
 A test task for an internship in a company.
 I do not provide a company name here due to a risk of cribbing my solution by other candidates.
 The task was to detect timeframes on different episodes in various movie series, both test and train datasets are available.
-the files in this repository are: a JSON file with predicted timeframes and a Jupyter Notebook file with completed task. It might not be seen correctly in GitHub so you will probably need to run the file locally.
+The repository contains a Jupyter Notebook file with a completed task. It might not be seen correctly in GitHub so you will probably need to run the file locally.
 So here goes the desctiption of my solution:
 
 **Approach**:
