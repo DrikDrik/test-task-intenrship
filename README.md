@@ -1,4 +1,4 @@
-# test-task-intenrship
+# test-task-internship
 A test task for an internship in a company.
 I do not provide a company name here due to a risk of cribbing my solution by other candidates.
 The task was to detect timeframes on different episodes in various movie series, both test and train datasets are available.
